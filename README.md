@@ -48,6 +48,11 @@
 </p>
     
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&theme=tokyonight" alt="slxmajor" />
+    <a href="https://github.com/mr-rivi/github-readme-stats">
+        <img alt="mr-rivi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-rivi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+    </a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&locale=en" alt="slxmajor" /></p>
+
 
