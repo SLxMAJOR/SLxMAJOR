@@ -40,11 +40,8 @@
 
 
 <!-- most used language, streak, github stats charts -->
-<p align="center">
-    <a href="https://github.com/mr-rivi/github-readme-stats"> 
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rivi&theme=tokyonight" alt="mr-rivi" />
-    </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slxmajor&show_icons=true&locale=en&layout=compact" alt="slxmajor" /></p>
+
     
  <p align="center">
    <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-rivi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
