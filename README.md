@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjula De Silva</h1>
-<h3 align="center">A passionate Quality Assurance developer from Sri Lanka</h3>
+<h3 align="center"> I am from Sri Lanka with a strong interest in learning more about Quality Assurance.</h3>
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slxmajor&label=Profile%20views&color=0e75b6&style=flat" alt="slxmajor" />
@@ -40,15 +40,10 @@
 
 
 <!-- most used language, streak, github stats charts -->
-<p align="center">
-    <a href="https://github.com/slxmajor/github-readme-stats"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&locale=en" alt="slxmajor" />
-    </a>
-</p>
-    
- <p align="center">
-   <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-rivi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rivi&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true""/></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slxmajor&show_icons=true&locale=en&layout=compact" alt="slxmajor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&locale=en" alt="slxmajor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slxmajor&" alt="slxmajor" /></p>
 
 
