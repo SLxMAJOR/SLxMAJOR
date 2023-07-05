@@ -40,10 +40,15 @@
 
 
 <!-- most used language, streak, github stats charts -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slxmajor&show_icons=true&locale=en&layout=compact" alt="slxmajor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&locale=en" alt="slxmajor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slxmajor&" alt="slxmajor" /></p>
-
+<p align="center">
+    <a href="https://github.com/slxmajor/github-readme-stats"> 
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slxmajor&theme=tokyonight" alt="slxmajor" />
+    </a>
+</p>
+    
+ <p align="center">
+   <a href="https://github.com/slxmajor/github-readme-stats"><img alt="slxmajor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
+  
+</p>
 
