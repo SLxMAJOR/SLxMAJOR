@@ -47,4 +47,4 @@
     </a>
 </p>
     
- <palign="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&locale=en&theme=tokyonight" alt="slxmajor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slxmajor&theme=tokyonight" alt="slxmajor" /></p>
