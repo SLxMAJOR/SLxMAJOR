@@ -48,7 +48,7 @@
 </p>
     
  <p align="center">
-   <a href="https://github.com/slxmajor/github-readme-stats"><img alt="slxmajor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
+  <img alt="slxmajor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slxmajor&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
   
 </p>
 
