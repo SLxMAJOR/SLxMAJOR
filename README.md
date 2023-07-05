@@ -9,15 +9,28 @@
 </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slxmajor" alt="slxmajor" /></a> </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
+</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on user-management-system [creativeconnect-mern](https://github.com/Mr-RiVi/creativeconnect-mern)
 
-- 📫 How to reach me msanjuladesilva@gmail.com **msanjuladesilva@gmail.com**
+- 👯 I’m looking to collaborate on **Quality Assurance.**
+
+- 🔍 I'm seeking guidance on learning about **Quality Assurance development**
+
+- 🎓 Currently, I am pursuing my Bachelor's degree in Information Technology (BSc Hons) at Sri Lanka Institute of Information Technology (SLIIT). I enrolled in 2021 and I am currently in my third year of studies.
+
+- 💬 Ask me about **my experience with the MERN stack.**
+
+- 📫 How to reach me **msanjuladesilva@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjula de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjula de silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanjula-de-silva-140316212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivindu fernando" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fernandorivindu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@fernandorivindu2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mr-rivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr-rivi" height="30" width="40" /></a>
 </p>
 
 
