@@ -3,7 +3,7 @@
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slxmajor&label=Profile%20views&color=0e75b6&style=flat" alt="slxmajor" />
-<img src="https://img.shields.io/github/followers/mr-rivi?label=Follow&style=social" alt="Github" />
+<img src="https://img.shields.io/github/followers/slxmajor?label=Follow&style=social" alt="Github" />
 <a href="https://www.linkedin.com/in/rivindu-fernando-516825246/">    
   <img src="https://img.shields.io/badge/-Rivindu_Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rivindu-fernando-516825246/" alt="Rivindu Fernando's LinkedIn Profile" />
 </a>
