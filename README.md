@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjula De Silva</h1>
-<h3 align="center"> I am from Sri Lanka with a strong interest in learning more about Quality Assurance.</h3>
+<h3 align="center"> I am from Sri Lanka with a strong interest in learning more about Full Stack Development.</h3>
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slxmajor&label=Profile%20views&color=0e75b6&style=flat" alt="slxmajor" />
