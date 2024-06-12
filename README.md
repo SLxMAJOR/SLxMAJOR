@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slxmajor&label=Profile%20views&color=0e75b6&style=flat" alt="slxmajor" />
 <img src="https://img.shields.io/github/followers/slxmajor?label=Follow&style=social" alt="Github" />
 <a href="https://www.linkedin.com/in/sanjula-de-silva-140316212/">    
-  <img src="https://img.shields.io/badge/-Sanjula_De_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/sanjula-de-silva-140316212/](https://lk.linkedin.com/in/sanjula-desilva-034b052a4)](https://www.linkedin.com/in/sanjula-desilva-034b052a4/)](https://www.linkedin.com/in/sanjula-desilva-034b052a4/)" alt="Sanjula De Silva's LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/-Sanjula_De_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://lk.linkedin.com/in/sanjula-desilva-034b052a4](https://www.linkedin.com/in/sanjula-desilva-034b052a4/)" alt="Sanjula De Silva's LinkedIn Profile" />
 </a>
 </p>
 
